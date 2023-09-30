@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/pwRhf7R/Rectangle-2-1.png",
+        "course_title": "Introduction to MySQL",
+        "course_description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "course_price": 49.99,
+        "course_credit": 3
+    },
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/0Yy95cG/Rectangle-2-2.png",
+        "course_title": "Introduction to C",
+        "course_description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "course_price": 59.99,
+        "course_credit": 4
+    },
+    {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/K5K9Ypt/Rectangle-2.png",
+        "course_title": "Python For OOP",
+        "course_description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "course_price": 69.99,
+        "course_credit": 3
+    },
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/BqJG70p/Rectangle-2-3.png",
+        "course_title": "Algorithms Essentials",
+        "course_description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "course_price": 69.99,
+        "course_credit": 3
+    },
+    {
+        "id": 5,
+        "cover_img": "https://i.ibb.co/6Rb6LK9/Rectangle-2-4.png",
+        "course_title": "C++ Learning Essentials",
+        "course_description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "course_price": 69.99,
+        "course_credit": 3
+    },
+    {
+        "id": 6,
+        "cover_img": "https://i.ibb.co/88QfpKd/Rectangle-2-5.png",
+        "course_title": "Software Engineering",
+        "course_description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "course_price": 69.99,
+        "course_credit": 3
+    },
+    {
+        "id": 7,
+        "cover_img": "https://i.ibb.co/FnMFF1n/Rectangle-2-6.png",
+        "course_title": "Machine Learning Essentials",
+        "course_description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "course_price": 69.99,
+        "course_credit": 3
+    },
+    {
+        "id": 8,
+        "cover_img": "https://i.ibb.co/YXFf4Wj/Rectangle-3.png",
+        "course_title": "Data Structure for Beginners",
+        "course_description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "course_price": 69.99,
+        "course_credit": 3
+    },
+    {
+        "id": 9,
+        "cover_img": "https://i.ibb.co/VxtDf56/Rectangle-3-1.png",
+        "course_title": "Cloud Computing with AWS",
+        "course_description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "course_price": 69.99,
+        "course_credit": 3
+    }
+]
